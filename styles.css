@@ -1,0 +1,37 @@
+body {
+  text-align: center;
+  font-size: 2em;
+}
+
+.middle {
+  font-size: 2rem;
+  width: 40%;
+  margin: auto;
+}
+
+.bottom {
+  font-size: 1rem;
+}
+
+p {
+  width: 30%;
+  margin: auto;
+  font-size: 2.5rem;
+}
+
+img {
+  width: 40%;
+  float: left;
+  /* margin-right: 10px; */
+}
+
+hr {
+  border-width: 5px;
+  width: 10%;
+  border-style: dotted none none none;
+  margin: 50px auto 50px auto;
+}
+
+h2 {
+  margin: 20px 0;
+}
